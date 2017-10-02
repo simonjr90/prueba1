@@ -1,0 +1,43 @@
+<? xml version = " 1.0 " encoding = " UTF-8 " ?>
+< breakfast_menu >
+< comida >
+    < nombre > Gambas belgas </ name >
+    < precio > $ 5,95 </ price >
+    < descripción >
+   Dos de nuestros famosos Waffles belgas con abundante jarabe de arce real
+   </ description >
+    < calorías > 650 </ calorías >
+</ food >
+< comida >
+    < nombre > Fresa Waffles belgas </ name >
+    < precio > $ 7.95 </ price >
+    < descripción >
+    Light waffles belgas cubiertos de fresas y crema batida
+    </ description >
+    < calorías > 900 </ calorías >
+</ food >
+< comida >
+    < nombre > Galletas belgas Berry-Berry </ name >
+    < precio > $ 8,95 </ price >
+    < descripción >
+    Waffles belgas cubiertos con una variedad de bayas frescas y crema batida
+    </ description >
+    < calorías > 900 </ calorías >
+</ food >
+< comida >
+    < nombre > Tostada francesa </ name >
+    < precio > $ 4.50 </ price >
+    < descripción >
+    Rebanadas gruesas hechas de nuestro pan casero de masa fermentada
+    </ description >
+    < calorías > 600 </ calorías >
+</ food >
+< comida >
+    < nombre > Homestyle Desayuno </ name >
+    < precio > $ 6,95 </ price >
+    < descripción >
+    Dos huevos, tocino o salchichas, tostadas, y nuestros siempre populares patatas fritas
+    </ description >
+    < calorías > 950 </ calories >
+</ food >
+</ breakfast_menu >
